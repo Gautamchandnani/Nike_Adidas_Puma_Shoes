@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "284829174168",
+    "project_id": "blckdrop-95408",
+    "storage_bucket": "blckdrop-95408.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:284829174168:android:263ca8fed6e909411943ed",
+        "android_client_info": {
+          "package_name": "com.arjkre.blckdrop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBr95SADLeGs6S6zCk16mlhzaQIsDtnok4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
